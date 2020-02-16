@@ -1,29 +1,22 @@
 module.exports = {
   siteMetadata: {
-    title: `Over The Bridge`,
-    description: `Hey, meet Bilal, Kwaku, Patrick &amp; Tom. 4 Black &amp; Mixed-Race guys who became friends whilst studying at Cambridge University. Join us as we talk about life before, during and well - after 'The Bridge'. Expect chats about life, and our own experiences.
-    email: otbpodcastuk@gmail.com
-    Twitter: @otbpodcastuk
-    Cast: 
-    Kwaku: @KwakuDapaah_
-    Patrick: @CariocoLondrino
-    Bilal: @Tweetsbybilal
-    Tom: @TomTheEconomist`,
-    author: `Kwaku, Patrick, Bilal & Tom`,
-    twitter: `https://twitter.com/otbpodcastuk?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor`,
-    instagram: `https://www.instagram.com/otbpodcastuk/`,
+    title: `The Edge of Fear`,
+    description: `Nobody has all the answers, but most people have at least one. The only way to learn what others have to teach us is by talking to one another, listening and connecting. Part of what we're missing in our modern society is a deeper sense of connection and belonging; we aren't seeing the light in others or in ourselves enough to want to open up or welcome others in. This podcast is meant to encourage authenticity, honesty, kindness and love, by sharing the darkness and the light. Sharing the twisted realities of our human experiences will help us feel safe TO feel, and then ultimately connect as a byproduct of those feelings.`,
+    author: `LIZ BASILE-LOUISON`,
+    twitter: ``,
+    instagram: `www.instagram.com/lizwithoutapillow `,
     facebook: ``,
     youtube: ``,
-    apple: `https://podcasts.apple.com/podcast/id1364395842?ct=podlink&mt=2`,
+    apple: `https://podcasts.apple.com/podcast/id1478323265?ct=podlink&mt=2`,
     stitcher: ``,
-    google: `https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NDA3NTYwNzY0L3NvdW5kcy5yc3M=`,
-    pocket: `https://pca.st/itunes/1364395842`,
-    spotify: `https://open.spotify.com/show/0Lo2a3hwV0nxymHUj2lNIk`,
-    overcast: `https://overcast.fm/itunes1364395842`,
-    castbox: `https://soundcloud.com/overthebridgeuk`,
-    castro: `https://castro.fm/itunes/1364395842`,
-    podbean: `https://www.podbean.com/podcast-detail/g9v5c-68ac3/Over-The-Bridge-Podcast`,
-    beaker: `https://www.breaker.audio/shows?feed_url=http%3A%2F%2Ffeeds.soundcloud.com%2Fusers%2Fsoundcloud%3Ausers%3A407560764%2Fsounds.rss`
+    google: `https://podcasts.google.com/?feed=aHR0cHM6Ly90aGVlZGdlb2ZmZWFycG9kY2FzdC5saWJzeW4uY29tL3Jzcw==`,
+    pocket: `https://pca.st/itunes/1478323265`,
+    spotify: `https://open.spotify.com/show/3iLyRLhNpeHCkf2LprxFjf`,
+    overcast: `https://overcast.fm/itunes1478323265`,
+    castbox: `https://castbox.fm/vic/1478323265`,
+    castro: `https://castro.fm/itunes/1478323265`,
+    podbean: ``,
+    beaker: `https://www.breaker.audio/shows?feed_url=https%3A%2F%2Ftheedgeoffearpodcast.libsyn.com%2Frss`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -59,7 +52,7 @@ module.exports = {
         // url: `https://www.gatsbyjs.org/blog/rss.xml`,
         // url: `https://boysinthecave.com/feed/podcast/`,
         // url: `http://boysinthecave.libsyn.com/rss`,
-        url: `http://feeds.soundcloud.com/users/soundcloud:users:407560764/sounds.rss`,
+        url: `http://theedgeoffearpodcast.libsyn.com/rss`,
         name: `GatsbyBlog`,
         // Optional
         // Read parser document: https://github.com/bobby-brennan/rss-parser#readme
